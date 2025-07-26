@@ -8,19 +8,18 @@
 
 <div align="center">
    
-   **`XRevolution Technologies 创始人兼首席执行官 (CEO)`** **`软件工程专家`** **`IT 解决方案`** **`数字化转型`**
-   
+  `XRevolution Technologies 创始人兼首席执行官` `软件工程专家` `信息技术解决方案` `数字化转型`
 </div><br>
 
 <div align="center">
-  <p>创新和领导力爱好者，勇于接受挑战，并始终致力于将我的企业愿景与技术解决方案相结合。凭借扎实的软件工程和敏捷方法论背景，我专注于提供高质量和卓越的成果。
-     从 IT 到网络安全和云计算，我喜欢与跨职能团队合作，解决复杂问题。我对技术的热情推动着我不断寻找新的方法，在数字世界中产生影响。</p>
+  <p>热爱创新与领导力，勇于接受挑战，始终致力于将我的创业愿景与技术解决方案相结合。拥有坚实的软件工程背景和敏捷方法论的经验，我专注于提供高质量和卓越的成果。
+     从IT到网络安全和云计算，我喜欢解决复杂的问题，并与跨职能团队合作。对技术的热情推动我不断探索在数字世界中创造改变的新方式。</p>
 </div>
 
 <div align="center">
    <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-专业LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
    <a href="https://www.linkedin.com/company/xrevolution-technologies/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-企业LinkedIn-cyan?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://www.linkedin.com/services/page/0003683234a701a78b/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-IT服务-purple?style=for-the-badge&logo=linkedin"/></a>
+   <a href="https://www.linkedin.com/services/page/0003683234a701a78b/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-IT服务-purple?style=for-the-badge&logo=linkedin"/></a>
 </div><br>
 
 <div>
@@ -28,25 +27,25 @@
    <table align="center">
     <tbody>
         <tr>
-            <td><h4><a href="https://github.com/LlynS2/Personal-Projects" target="_blank">个人项目</h4></a></td>
-            <td><h4><a href="https://github.com/LlynS2/Academic-Projects" target="_blank">学术项目</h4></a></td>
-            <td><h4><a href="https://github.com/LlynS2/Professional-Projects" target="_blank">职业项目</h4></a></td>
+            <td align="center"><h4><a href="https://github.com/LlynS2/Personal-Projects" target="_blank">个人项目</h4></a></td>
+            <td align="center"><h4><a href="https://github.com/LlynS2/Academic-Projects" target="_blank">学术项目</h4></a></td>
+            <td align="center"><h4><a href="https://github.com/LlynS2/Professional-Projects" target="_blank">专业项目</h4></a></td>
         </tr>
     </tbody>
  </table>
 </div>
 <div>
-  <h2>💎 关键技能</h2>  
+  <h2>💎 核心技能</h2>  
 <table>
     <tbody>
-        <tr>
+        <tr align="center">
             <td><h4>数据科学</h4></td>
             <td><h4>新兴技术与人工智能</h4></td>
             <td><h4>产品管理</h4></td>
             <td><h4>项目管理</h4></td>
         </tr>
-        <tr>
-          <td><h4>商业分析与战略</h4></td>
+        <tr align="center">
+          <td><h4>业务分析与战略</h4></td>
             <td><h4>领导力与沟通</h4></td>
             <td><h4>软件工程与开发</h4></td>
             <td><h4>基础设施与治理</h4></td>
@@ -55,10 +54,10 @@
  </table>
 </div>
 <div>
-<h2>💼 公司</h2>
+<h2>💼 合作企业</h2>
   <table>
     <tbody>
-      <tr>
+      <tr align="center">
         <td><img src="https://github.com/user-attachments/assets/25d8d17c-e721-4885-a8b9-c41ed10bbacf" alt="FIAP" width="57"></td>
         <td><img src="https://github.com/user-attachments/assets/bbd53888-0feb-44d1-a882-eb7047924402" alt="USP" width="57"></td>
         <td><img src="https://github.com/user-attachments/assets/371788ba-379a-464f-980e-3265221fcca8" alt="Pernambucanas" width="75"></td>
@@ -66,19 +65,19 @@
         <td><img src="https://github.com/user-attachments/assets/4d043c02-2fb4-4042-a2c4-41219c214373" alt="IBM" width="75"></td>
         <td><img src="https://github.com/user-attachments/assets/96987f7c-8781-4664-a089-b25485e197f5" alt="Globant" width="55"></td>
         <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
-        <td><img src="https://github.com/user-attachments/assets/df9c855f-95f3-4892-adb4-508dac3655e2" alt="MIT" width="85"></td>
+        <td><img src="https://github.com/user-attachments/assets/df9c855f-95f3-4892-adb4-508dac3655e2" alt="麻省理工学院 (MIT)" width="85"></td>
         <td><img src="https://github.com/user-attachments/assets/d63262db-4d9a-4e89-8bc8-7425fbb6f92a" alt="IFood" width="85"></td>
       </tr>
-      <tr>
+      <tr align="center">
         <td><img src="https://github.com/user-attachments/assets/5841fa53-601e-46d4-b875-1efcf8652d08" alt="Google" width="75"></td>
         <td><img src="https://github.com/user-attachments/assets/c1e293ac-75d0-41d6-9143-d09715e89830" alt="Target Sistemas" width="75"></td>
         <td><img src="https://github.com/user-attachments/assets/44f293f0-c32c-42e8-a3f2-a6f692ccc408" alt="Ada Tech" width="75"></td>
         <td><img src="https://github.com/user-attachments/assets/874b4429-14cf-414e-9a84-82b1a3e5740a" alt="Stellantis" width="85"></td>
         <td><img src="https://github.com/user-attachments/assets/fd28537e-69e3-4a1a-8b56-e2658d3835bb" alt="BRQ" width="85"></td>
-        <td><img src="https://github.com/user-attachments/assets/f0b68583-1b7d-44c6-bbc4-7f8aeda99b3b" alt="BAYER" width="85"></td>
+        <td><img src="https://github.com/user-attachments/assets/f0b68583-1b7d-44c6-bbc4-7f8aeda99b3b" alt="拜耳 (BAYER)" width="85"></td>
         <td><img src="https://github.com/user-attachments/assets/612541d8-e2fb-4b0d-b132-c907ff819358" alt="哈佛大学" width="95"></td>
         <td><img src="https://github.com/user-attachments/assets/06ac6c2d-651a-4ed5-90aa-f4aecbee5a1d" alt="哈佛商学院出版教育" width="105"></td>
-        <td><img src="https://github.com/user-attachments/assets/80cf96e3-8354-4c4d-a16a-79a55926dcfb" alt="XRevolution Technologies" width="95"></td>
+        <td><img src="https://github.com/user-attachments/assets/d4090fa1-cefc-4110-b125-68b356feaf56" alt="XRevolution Technologies" width="95"></td>
       </tr>
     </tbody>
   </table>
