@@ -7,20 +7,18 @@
 </div>
 
 <div align="center">
-   
-   **`Founder & CEO at XRevolution Technologies`** **`Specialist Software Engineer`** **`IT Solutions`** **`Digital Transformation`**
-   
+   <strong>`Founder & CEO of XRevolution Technologies`</strong> <strong>`Software Engineering Specialist`</strong> <strong>`IT Solutions`</strong> <strong>`Digital Transformation`</strong>
 </div><br>
 
 <div align="center">
-  <p>Innovation and leadership enthusiast, driven by challenges and always seeking to connect my entrepreneurial vision with technical solutions. With a strong background in Software Engineering and Agile methodologies, my focus is on delivering high-quality and excellent results. 
-     From IT to cybersecurity and cloud, I enjoy solving complex problems while working with cross-functional teams. My passion for technology drives me to find new ways to make a difference in the digital world.</p>
+  <p>Innovation and leadership enthusiast, driven by challenges and always aiming to connect my entrepreneurial vision with technical solutions. With a solid background in Software Engineering and agile methodologies, I focus on delivering high-quality and excellent results.
+     From IT to cybersecurity and cloud, I enjoy solving complex problems while collaborating with cross-functional teams. My passion for technology drives me to discover new ways to make a difference in the digital world.</p>
 </div>
 
 <div align="center">
    <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-Professional LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
    <a href="https://www.linkedin.com/company/xrevolution-technologies/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-Business LinkedIn-cyan?style=for-the-badge&logo=linkedin"/></a>
-   <a href="https://www.linkedin.com/services/page/0003683234a701a78b/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-IT Services-purple?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/services/page/0003683234a701a78b/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-IT Services-purple?style=for-the-badge&logo=linkedin"/></a>
 </div><br>
 
 <div>
@@ -28,28 +26,28 @@
    <table align="center">
     <tbody>
         <tr>
-            <td><h4><a href="https://github.com/LlynS2/Personal-Projects" target="_blank">Personal Projects</h4></a></td>
-            <td><h4><a href="https://github.com/LlynS2/Academic-Projects" target="_blank">Academic Projects</h4></a></td>
-            <td><h4><a href="https://github.com/LlynS2/Professional-Projects" target="_blank">Professional Projects</h4></a></td>
+            <td align="center"><h4><a href="https://github.com/LlynS2/Personal-Projects" target="_blank">Personal Projects</h4></a></td>
+            <td align="center"><h4><a href="https://github.com/LlynS2/Academic-Projects" target="_blank">Academic Projects</h4></a></td>
+            <td align="center"><h4><a href="https://github.com/LlynS2/Professional-Projects" target="_blank">Professional Projects</h4></a></td>
         </tr>
     </tbody>
  </table>
 </div>
 <div>
-  <h2>💎 Key Skills</h2>  
+  <h2>💎 Core Skills</h2>  
 <table>
     <tbody>
-        <tr>
+        <tr align="center">
             <td><h4>Data Science</h4></td>
-            <td><h4>Emerging Technologies and Artificial Intelligence</h4></td>
+            <td><h4>Emerging Technologies & Artificial Intelligence</h4></td>
             <td><h4>Product Management</h4></td>
             <td><h4>Project Management</h4></td>
         </tr>
-        <tr>
-          <td><h4>Business Analysis and Strategy</h4></td>
-            <td><h4>Leadership and Communication</h4></td>
-            <td><h4>Engineering & Software Development</h4></td>
-            <td><h4>Infrastructure and Governance</h4></td>
+        <tr align="center">
+          <td><h4>Business Analysis & Strategy</h4></td>
+            <td><h4>Leadership & Communication</h4></td>
+            <td><h4>Software Engineering & Development</h4></td>
+            <td><h4>Infrastructure & Governance</h4></td>
         </tr>
     </tbody>
  </table>
@@ -58,7 +56,7 @@
 <h2>💼 Companies</h2>
   <table>
     <tbody>
-      <tr>
+      <tr align="center">
         <td><img src="https://github.com/user-attachments/assets/25d8d17c-e721-4885-a8b9-c41ed10bbacf" alt="FIAP" width="57"></td>
         <td><img src="https://github.com/user-attachments/assets/bbd53888-0feb-44d1-a882-eb7047924402" alt="USP" width="57"></td>
         <td><img src="https://github.com/user-attachments/assets/371788ba-379a-464f-980e-3265221fcca8" alt="Pernambucanas" width="75"></td>
@@ -69,7 +67,7 @@
         <td><img src="https://github.com/user-attachments/assets/df9c855f-95f3-4892-adb4-508dac3655e2" alt="MIT" width="85"></td>
         <td><img src="https://github.com/user-attachments/assets/d63262db-4d9a-4e89-8bc8-7425fbb6f92a" alt="IFood" width="85"></td>
       </tr>
-      <tr>
+      <tr align="center">
         <td><img src="https://github.com/user-attachments/assets/5841fa53-601e-46d4-b875-1efcf8652d08" alt="Google" width="75"></td>
         <td><img src="https://github.com/user-attachments/assets/c1e293ac-75d0-41d6-9143-d09715e89830" alt="Target Sistemas" width="75"></td>
         <td><img src="https://github.com/user-attachments/assets/44f293f0-c32c-42e8-a3f2-a6f692ccc408" alt="Ada Tech" width="75"></td>
@@ -78,7 +76,7 @@
         <td><img src="https://github.com/user-attachments/assets/f0b68583-1b7d-44c6-bbc4-7f8aeda99b3b" alt="BAYER" width="85"></td>
         <td><img src="https://github.com/user-attachments/assets/612541d8-e2fb-4b0d-b132-c907ff819358" alt="Harvard University" width="95"></td>
         <td><img src="https://github.com/user-attachments/assets/06ac6c2d-651a-4ed5-90aa-f4aecbee5a1d" alt="Harvard Business Publishing Education" width="105"></td>
-        <td><img src="https://github.com/user-attachments/assets/80cf96e3-8354-4c4d-a16a-79a55926dcfb" alt="XRevolution Technologies" width="95"></td>
+        <td><img src="https://github.com/user-attachments/assets/d4090fa1-cefc-4110-b125-68b356feaf56" alt="XRevolution Technologies" width="95"></td>
       </tr>
     </tbody>
   </table>
