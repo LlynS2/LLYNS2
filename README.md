@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-   <strong>`Founder & CEO of XRevolution Technologies`</strong> <strong>`Software Engineering Specialist`</strong> <strong>`IT Solutions`</strong> <strong>`Digital Transformation`</strong>
+   
+   ``Founder & CEO of XRevolution Technologies`` ``Software Engineering Specialist`` ``IT Solutions`` ``Digital Transformation``
 </div><br>
 
 <div align="center">
