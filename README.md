@@ -8,7 +8,7 @@
 
 <div align="center">
    
-   **`XRevolution Technologies 창립자 & CEO`** **`소프트웨어 엔지니어`** **`프로덕트 오너`** **`IT 프로젝트 매니저`**
+   **`XRevolution Technologies 창립자 & CEO`** **`소프트웨어 공학 전문가`** **`IT 솔루션`** **`디지털 전환`**
    
 </div><br>
 
