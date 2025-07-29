@@ -29,7 +29,6 @@
         <tr>
             <td align="center"><h4><a href="https://github.com/LlynS2/Personal-Projects" target="_blank">个人项目</h4></a></td>
             <td align="center"><h4><a href="https://github.com/LlynS2/Academic-Projects" target="_blank">学术项目</h4></a></td>
-            <td align="center"><h4><a href="https://github.com/LlynS2/Professional-Projects" target="_blank">专业项目</h4></a></td>
         </tr>
     </tbody>
  </table>
