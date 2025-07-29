@@ -21,7 +21,6 @@
 <div align="center">
    <a href="https://www.linkedin.com/in/hevellyn-mc-frei-mba-079020219/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-전문 LinkedIn-pink?style=for-the-badge&logo=linkedin"/></a>
    <a href="https://www.linkedin.com/company/xrevolution-technologies/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-기업 LinkedIn-cyan?style=for-the-badge&logo=linkedin"/></a>
-   <a href="https://www.linkedin.com/services/page/0003683234a701a78b/"><img alt="linkedIn" src="https://custom-icon-badges.demolab.com/badge/-IT 서비스-purple?style=for-the-badge&logo=linkedin"/></a>
 </div><br>
 
 <div>
@@ -31,7 +30,6 @@
         <tr>
             <td align="center"><h4><a href="https://github.com/LlynS2/Personal-Projects" target="_blank">개인 프로젝트</h4></a></td>
             <td align="center"><h4><a href="https://github.com/LlynS2/Academic-Projects" target="_blank">학술 프로젝트</h4></a></td>
-            <td align="center"><h4><a href="https://github.com/LlynS2/Professional-Projects" target="_blank">전문 프로젝트</h4></a></td>
         </tr>
     </tbody>
  </table>
