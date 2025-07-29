@@ -30,7 +30,6 @@
         <tr>
             <td align="center"><h4><a href="https://github.com/LlynS2/Personal-Projects" target="_blank">Projetos Pessoais</h4></a></td>
             <td align="center"><h4><a href="https://github.com/LlynS2/Academic-Projects" target="_blank">Projetos Acadêmicos</h4></a></td>
-            <td align="center"><h4><a href="https://github.com/LlynS2/Professional-Projects" target="_blank">Projetos Profissionais</h4></a></td>
         </tr>
     </tbody>
  </table>
