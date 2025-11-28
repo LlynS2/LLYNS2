@@ -8,21 +8,20 @@
 </div><br>
 
 <div align="center">
-   
-   `Founder & CEO @X T R H Y L L`  `AI & Software Engineer`
-</div><br>
-
-<div align="center">
   <p>Innovation and leadership enthusiast, driven by challenges and always aiming to connect my entrepreneurial vision with technical solutions. With a solid background in Software Engineering and agile methodologies, I focus on delivering high-quality and excellent results.
      From IT to cybersecurity and cloud, I enjoy solving complex problems while collaborating with cross-functional teams. My passion for technology drives me to discover new ways to make a difference in the digital world.</p>
 </div><br>
 
-<div align="left" >
+<div align="center" >
    
    `Artificial Intelligence`
    `Software Engineering`
-   `Innovation`
-   `Technology`
-   `Business`
+   `Global Deep Tech & Innovation Ecosystem`
+   `Strategic Business`
+   `Revolution` 
+   `Future Tech`
+   
+   
+   <h6>©2025  Hevellyn Mc'Frei • X T R H Y L L </h6>
 
 </div><br>
