@@ -18,8 +18,6 @@
    `Software Engineering`
    `Global Deep Tech & Innovation Ecosystem`
    `Strategic Business`
-   `Revolution` 
-   `Future Tech`
    
    <h6>©2025  Hevellyn Mc'Frei • X T R H Y L L </h6>
 </div>
