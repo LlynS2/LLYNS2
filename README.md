@@ -110,6 +110,6 @@
    
    </div>
    <div align="center" >
-      <h6>©2025  Hevellyn Mc'Frei • X T R H Y L L </h6>
+      <h6>©2026  Hevellyn Mc'Frei • X T R H Y L L </h6>
    </div>
 </footer>
