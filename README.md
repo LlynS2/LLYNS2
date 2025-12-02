@@ -22,8 +22,6 @@
    `Engenharia de Software`
    `Ecossistema Global de Deep Tech & Inovação`
    `Negócios Estratégicos`
-   `Revolução` 
-   `Tecnologias do Futuro`
    
    <h6>©2025  Hevellyn Mc'Frei • X T R H Y L L </h6>
 </div>
