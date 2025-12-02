@@ -49,9 +49,9 @@
    
    <div align="center">
       
-   [`A C A D E M I C S  P R O J E C T S`](#)
+   [`A C A D E M I C  P R O J E C T S`](#)
    [`P E R S O N A L  P R O J E C T S`](#)
-   [`H A C K A T H O N S  C H A L L E N G E S`](#)
+   [`H A C K A T H O N  C H A L L E N G E S`](#)
    
    </div><br>
    
