@@ -1,5 +1,5 @@
 <head>
-   <div align="right" >
+   <div align="left" >
       
    [`Português`](https://github.com/LlynS2/LLYNS2/tree/Português) 
    [`Español`](https://github.com/LlynS2/LLYNS2/tree/Español)
@@ -7,7 +7,17 @@
    [`한국어`](https://github.com/LlynS2/LLYNS2/tree/한국어)
    
    </div><br>
-</head>
+   
+   <div align="right" >
+
+   <h5>P R O F E S S I O N A L&nbsp;&nbsp;L I N K S</h5>
+   
+   [`L I N K E D I N`](www.linkedin.com/in/hevellyn-mc-frei-mba-079020219) 
+   [`O R C I D`](https://orcid.org/0009-0005-3356-7286)
+   [`L A T T E S`](http://lattes.cnpq.br/9898418408120334)
+   
+   </div>
+</head><br>
 
 <body>
    <div>
@@ -39,9 +49,9 @@
    
    <div align="center">
       
-   [`A c a d e m i c`](#)
-   [`H a c k a t h o n s`](#)
-   [`E n t e r p r i s e s`](#)
+   [`A C A D E M I C S  P R O J E C T S`](#)
+   [`P E R S O N A L  P R O J E C T S`](#)
+   [`H A C K A T H O N S  C H A L L E N G E S`](#)
    
    </div><br>
    
@@ -79,15 +89,16 @@
    <div align="left">
       <h2 align="center">
          <a href="https://github.com/XTRHYLL">X T R H Y L L&nbsp;&nbsp;C O R P O R A T I O N</a>
-      </h2>
+      </h2><br>
       <text>
-         <p>
+         <p align="left" >
+           <a href="https://github.com/XTRHYLL"><img  align="right" width="450" height="450" alt="LOGO XTRHYLL - COM SLOGAN" src="https://github.com/user-attachments/assets/fde4d863-a702-488c-83c1-0440666cc21f" /></a><br><br>
            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper nibh metus, ac finibus purus tristique ac. Proin a ex urna. Integer vel malesuada justo. Nulla facilisi. Vestibulum faucibus ante id
            posuere venenatis. Aliquam felis mi, tincidunt a ornare in, vehicula sed ipsum. Maecenas ornare dapibus gravida. Nulla consequat augue et lorem semper, eu tristique augue porttitor. Vestibulum turpis dolor,
            fringilla ut arcu vitae, consectetur consectetur odio. Mauris vitae magna vitae felis blandit porta ut eu quam. Nulla sodales egestas nulla, vitae ornare odio ullamcorper quis.
          </p> 
       </text>
-</body><br>
+</body><br><br>
 
 <footer>
    <div align="center" >
