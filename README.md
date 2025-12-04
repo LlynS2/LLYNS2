@@ -112,7 +112,7 @@
       </h2><br>
       <text>
          <p align="left" >
-           <a href="https://github.com/XTRHYLL"><img  align="right" width="390" height="390" alt="LOGO XTRHYLL" src="https://github.com/user-attachments/assets/fde4d863-a702-488c-83c1-0440666cc21f" /></a><br><br>
+           <a href="https://github.com/XTRHYLL"><img  align="right" width="350" height="350" alt="LOGO XTRHYLL" src="https://github.com/user-attachments/assets/fde4d863-a702-488c-83c1-0440666cc21f" /></a><br><br>
            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper nibh metus, ac finibus purus tristique ac. Proin a ex urna. Integer vel malesuada justo. Nulla facilisi. Vestibulum faucibus ante id
            posuere venenatis. Aliquam felis mi, tincidunt a ornare in, vehicula sed ipsum. Maecenas ornare dapibus gravida. Nulla consequat augue et lorem semper, eu tristique augue porttitor. Vestibulum turpis dolor,
            fringilla ut arcu vitae, consectetur consectetur odio. Mauris vitae magna vitae felis blandit porta ut eu quam. Nulla sodales egestas nulla, vitae ornare odio ullamcorper quis.
