@@ -109,13 +109,15 @@
          <a href="https://github.com/XTRHYLL">
             <img width="370" height="44" alt="XTRHYLL Corp" src="https://github.com/user-attachments/assets/06642e33-2f9d-44f1-80a9-450c96499821" />
          </a>
-      </h2><br>
+      </h2>
       <text>
          <p align="left" >
-           <a href="https://github.com/XTRHYLL"><img  align="right" width="310" height="310" alt="LOGO XTRHYLL" src="https://github.com/user-attachments/assets/fde4d863-a702-488c-83c1-0440666cc21f" /></a><br><br>
-           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper nibh metus, ac finibus purus tristique ac. Proin a ex urna. Integer vel malesuada justo. Nulla facilisi. Vestibulum faucibus ante id
-           posuere venenatis. Aliquam felis mi, tincidunt a ornare in, vehicula sed ipsum. Maecenas ornare dapibus gravida. Nulla consequat augue et lorem semper, eu tristique augue porttitor. Vestibulum turpis dolor,
-           fringilla ut arcu vitae, consectetur consectetur odio. Mauris vitae magna vitae felis blandit porta ut eu quam. Nulla sodales egestas nulla, vitae ornare odio ullamcorper quis.
+           <a href="https://github.com/XTRHYLL"><img  align="right" width="290" height="310" alt="LOGO XTRHYLL" src="https://github.com/user-attachments/assets/0d90be3d-82db-42de-94be-54e79f74810d" /></a><br><br>
+            
+   [`X T R H Y L L  C O R P O R A T I O N`](https://github.com/XTRHYLL) 
+           was born with the purpose of driving transformation, raising standards, and developing solutions that connect technology, innovation, business, society, and the future. 
+           We focus on creating intelligent technologies and advanced solutions that generate global impact and change the world.<br><br>
+           — Never replacing, always adding.
          </p> 
       </text>
 </body><br><br>
