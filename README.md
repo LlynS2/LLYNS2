@@ -40,7 +40,7 @@
    [`O R C I D`](https://orcid.org/0009-0005-3356-7286)
    [`L A T T E S`](http://lattes.cnpq.br/9898418408120334)
    
-   </div><br>
+   </div>
    
    </div><br>
    
