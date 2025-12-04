@@ -1,5 +1,5 @@
 <head>
-   <div align="left" >
+   <div align="right" >
       
    [`Português`](https://github.com/LlynS2/LLYNS2/tree/Português) 
    [`Español`](https://github.com/LlynS2/LLYNS2/tree/Español)
