@@ -111,7 +111,7 @@
    <div align="left">
       <h2 align="center">
          <a href="https://github.com/XTRHYLL">
-            <img width="390" height="44" alt="XTRHYLL Corp" src="https://github.com/user-attachments/assets/06642e33-2f9d-44f1-80a9-450c96499821" />
+            <img width="370" height="44" alt="XTRHYLL Corp" src="https://github.com/user-attachments/assets/06642e33-2f9d-44f1-80a9-450c96499821" />
          </a>
       </h2><br>
       <text>
