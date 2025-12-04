@@ -9,13 +9,7 @@
    </div><br>
    
    <div align="center" >
-      <img width="1262" height="421" alt="Hello World" src="https://github.com/user-attachments/assets/9d35ad6c-9929-4994-9e86-8ae742a29880" /><br>
-
-   `Artificial Intelligence`
-   `Software Engineering`
-   `Global Deep Tech & Innovation Ecosystem`
-   `Strategic Business`
-   
+      <img width="1262" height="421" alt="Hello World" src="https://github.com/user-attachments/assets/9d35ad6c-9929-4994-9e86-8ae742a29880" />
    </div>
 </head><br>
 
@@ -122,9 +116,17 @@
            fringilla ut arcu vitae, consectetur consectetur odio. Mauris vitae magna vitae felis blandit porta ut eu quam. Nulla sodales egestas nulla, vitae ornare odio ullamcorper quis.
          </p> 
       </text>
-</body><br>
+</body><br><br>
 
 <footer>
+   <div align="center">
+               
+   `Artificial Intelligence`
+   `Software Engineering`
+   `Global Deep Tech & Innovation Ecosystem`
+   `Strategic Business`
+   
+   </div><br>
    <div align="center" >
       <h6>©2026  Hevellyn Mc'Frei • X T R H Y L L </h6>
    </div>
