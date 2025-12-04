@@ -8,20 +8,24 @@
    
    </div><br>
    
-   <div align="right" >
+   <div align="center" >
+      <img width="1262" height="421" src="https://github.com/user-attachments/assets/9d35ad6c-9929-4994-9e86-8ae742a29880" /><br>
 
-   <h5>P R O F E S S I O N A L&nbsp;&nbsp;L I N K S</h5>
-   
-   [`L I N K E D I N`](www.linkedin.com/in/hevellyn-mc-frei-mba-079020219) 
-   [`O R C I D`](https://orcid.org/0009-0005-3356-7286)
-   [`L A T T E S`](http://lattes.cnpq.br/9898418408120334)
+   `Artificial Intelligence`
+   `Software Engineering`
+   `Global Deep Tech & Innovation Ecosystem`
+   `Strategic Business`
    
    </div>
 </head><br>
 
 <body>
    <div>
-      <h2>A B O U T&nbsp;&nbsp;M E</h2>
+      <h2>
+         <a href="#" >
+            <img width="250" height="43" alt="About Me2" src="https://github.com/user-attachments/assets/c500a7fe-2a09-4b72-9e3d-7d30b6953290" />
+         </a>
+      </h2>
       <text align="left">
          <p>
            Sed sagittis feugiat sem vitae tempor. Pellentesque aliquet tellus quis dolor aliquam, vitae fermentum magna venenatis. Praesent eget arcu condimentum lorem pharetra mattis. Ut ac convallis nulla. Sed et 
@@ -32,12 +36,26 @@
          <p>
            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper nibh metus, ac finibus purus tristique ac. Proin a ex urna. Integer vel malesuada justo. Nulla facilisi. Vestibulum faucibus ante id 
            neque posuere venenatis. 
-         </p> 
+         </p>
       </text>
+
+   <div align="right">
+      <h5><a href="#" ><img width="260" height="38" alt="Professional Links" src="https://github.com/user-attachments/assets/06527d8b-6f4f-4b1c-a233-0070865f2916" /></a></h5>
+   
+   [`L I N K E D I N`](www.linkedin.com/in/hevellyn-mc-frei-mba-079020219) 
+   [`O R C I D`](https://orcid.org/0009-0005-3356-7286)
+   [`L A T T E S`](http://lattes.cnpq.br/9898418408120334)
+   
+   </div><br>
+   
    </div><br>
    
    <div align="left">
-      <h2>P R O J E C T S</h2>
+      <h2>
+         <a href="#" >
+            <img width="250" height="43" alt="Projects" src="https://github.com/user-attachments/assets/93b81dc6-a51c-414f-a744-a56731dd76bf" />
+         </a>
+      </h2>
       <text>
          <p>
            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper nibh metus, ac finibus purus tristique ac. Proin a ex urna. Integer vel malesuada justo. Nulla facilisi. Vestibulum faucibus ante id 
@@ -56,7 +74,11 @@
    </div><br>
    
    <div align="left">
-      <h2>S K I L L S&nbsp; & &nbsp;K N O W L E D G</h2>
+      <h2>
+         <a href="#" >
+            <img width="450" height="43" alt="Skills and Knowledg" src="https://github.com/user-attachments/assets/8b0f9a2d-a8e2-41d1-a5f5-90d58bb226e1" />
+         </a>
+      </h2>
       <text>
          <p>
            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper nibh metus, ac finibus purus tristique ac. Proin a ex urna. Integer vel malesuada justo. Nulla facilisi. Vestibulum faucibus ante id 
@@ -88,7 +110,9 @@
    
    <div align="left">
       <h2 align="center">
-         <a href="https://github.com/XTRHYLL">X T R H Y L L&nbsp;&nbsp;C O R P O R A T I O N</a>
+         <a href="https://github.com/XTRHYLL">
+            <img width="450" height="44" alt="XTRHYLL Corp" src="https://github.com/user-attachments/assets/06642e33-2f9d-44f1-80a9-450c96499821" />
+         </a>
       </h2><br>
       <text>
          <p align="left" >
@@ -98,17 +122,9 @@
            fringilla ut arcu vitae, consectetur consectetur odio. Mauris vitae magna vitae felis blandit porta ut eu quam. Nulla sodales egestas nulla, vitae ornare odio ullamcorper quis.
          </p> 
       </text>
-</body><br><br>
+</body><br>
 
 <footer>
-   <div align="center" >
-   
-   `Artificial Intelligence`
-   `Software Engineering`
-   `Global Deep Tech & Innovation Ecosystem`
-   `Strategic Business`
-   
-   </div>
    <div align="center" >
       <h6>©2026  Hevellyn Mc'Frei • X T R H Y L L </h6>
    </div>
