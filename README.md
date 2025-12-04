@@ -9,7 +9,7 @@
    </div><br>
    
    <div align="center" >
-      <img width="1262" height="421" src="https://github.com/user-attachments/assets/9d35ad6c-9929-4994-9e86-8ae742a29880" /><br>
+      <img width="1262" height="421" alt="Hello World" src="https://github.com/user-attachments/assets/9d35ad6c-9929-4994-9e86-8ae742a29880" /><br>
 
    `Artificial Intelligence`
    `Software Engineering`
@@ -23,7 +23,7 @@
    <div>
       <h2>
          <a href="#" >
-            <img width="250" height="43" alt="About Me2" src="https://github.com/user-attachments/assets/c500a7fe-2a09-4b72-9e3d-7d30b6953290" />
+            <img width="200" height="43" alt="About Me" src="https://github.com/user-attachments/assets/c500a7fe-2a09-4b72-9e3d-7d30b6953290" />
          </a>
       </h2>
       <text align="left">
@@ -53,7 +53,7 @@
    <div align="left">
       <h2>
          <a href="#" >
-            <img width="250" height="43" alt="Projects" src="https://github.com/user-attachments/assets/93b81dc6-a51c-414f-a744-a56731dd76bf" />
+            <img width="200" height="43" alt="Projects" src="https://github.com/user-attachments/assets/93b81dc6-a51c-414f-a744-a56731dd76bf" />
          </a>
       </h2>
       <text>
@@ -76,7 +76,7 @@
    <div align="left">
       <h2>
          <a href="#" >
-            <img width="450" height="43" alt="Skills and Knowledg" src="https://github.com/user-attachments/assets/8b0f9a2d-a8e2-41d1-a5f5-90d58bb226e1" />
+            <img width="350" height="43" alt="Skills and Knowledg" src="https://github.com/user-attachments/assets/8b0f9a2d-a8e2-41d1-a5f5-90d58bb226e1" />
          </a>
       </h2>
       <text>
@@ -111,12 +111,12 @@
    <div align="left">
       <h2 align="center">
          <a href="https://github.com/XTRHYLL">
-            <img width="450" height="44" alt="XTRHYLL Corp" src="https://github.com/user-attachments/assets/06642e33-2f9d-44f1-80a9-450c96499821" />
+            <img width="390" height="44" alt="XTRHYLL Corp" src="https://github.com/user-attachments/assets/06642e33-2f9d-44f1-80a9-450c96499821" />
          </a>
       </h2><br>
       <text>
          <p align="left" >
-           <a href="https://github.com/XTRHYLL"><img  align="right" width="390" height="390" alt="LOGO XTRHYLL - COM SLOGAN" src="https://github.com/user-attachments/assets/fde4d863-a702-488c-83c1-0440666cc21f" /></a><br><br>
+           <a href="https://github.com/XTRHYLL"><img  align="right" width="390" height="390" alt="LOGO XTRHYLL" src="https://github.com/user-attachments/assets/fde4d863-a702-488c-83c1-0440666cc21f" /></a><br><br>
            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper nibh metus, ac finibus purus tristique ac. Proin a ex urna. Integer vel malesuada justo. Nulla facilisi. Vestibulum faucibus ante id
            posuere venenatis. Aliquam felis mi, tincidunt a ornare in, vehicula sed ipsum. Maecenas ornare dapibus gravida. Nulla consequat augue et lorem semper, eu tristique augue porttitor. Vestibulum turpis dolor,
            fringilla ut arcu vitae, consectetur consectetur odio. Mauris vitae magna vitae felis blandit porta ut eu quam. Nulla sodales egestas nulla, vitae ornare odio ullamcorper quis.
