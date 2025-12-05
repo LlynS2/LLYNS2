@@ -51,13 +51,6 @@
             <img width="200" height="43" alt="Projects" src="https://github.com/user-attachments/assets/93b81dc6-a51c-414f-a744-a56731dd76bf" />
          </a>
       </h2>
-      <text>
-         <p>
-           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper nibh metus, ac finibus purus tristique ac. Proin a ex urna. Integer vel malesuada justo. Nulla facilisi. Vestibulum faucibus ante id 
-           neque posuere venenatis. Aliquam felis mi, tincidunt a ornare in, vehicula sed ipsum. Maecenas ornare dapibus gravida. Nulla consequat augue et lorem semper, eu tristique augue porttitor. Vestibulum turpis 
-           dolor, fringilla ut arcu vitae, consectetur consectetur odio. Mauris vitae magna vitae felis blandit porta ut eu quam. Nulla sodales egestas nulla, vitae ornare odio ullamcorper quis.
-         </p> 
-      </text>
    </div><br>
    
    <div align="center">
@@ -73,32 +66,32 @@
          <a href="#" >
             <img width="350" height="43" alt="Skills and Knowledg" src="https://github.com/user-attachments/assets/8b0f9a2d-a8e2-41d1-a5f5-90d58bb226e1" />
          </a>
-      </h2>
+      </h2><br>
       <text>
          <p>
-           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper nibh metus, ac finibus purus tristique ac. Proin a ex urna. Integer vel malesuada justo. Nulla facilisi. Vestibulum faucibus ante id 
-           neque posuere venenatis. Aliquam felis mi, tincidunt a ornare in, vehicula sed ipsum. Maecenas ornare dapibus gravida. Nulla consequat augue et lorem semper, eu tristique augue porttitor. Vestibulum turpis 
-           dolor, fringilla ut arcu vitae, consectetur consectetur odio. Mauris vitae magna vitae felis blandit porta ut eu quam. Nulla sodales egestas nulla, vitae ornare odio ullamcorper quis.
-         </p> 
+           "I am never really satisfied that I understand anything; because, no matter how well I may comprehend it, my understanding can only be an infinitesimal fraction of all I want to understand."<br>
+      
+   `A D A  L O V E L A C E`
+         </p>
       </text><br>
       <table align="center">
-        <tr>
-          <th>S K I L L</th>
-          <th>S K I L L</th>
-          <th>S K I L L</th>
-          <th>S K I L L</th>
-          <th>S K I L L</th>
-          <th>S K I L L</th>
-          <th>S K I L L</th>
+        <tr align="left">
+          <td>Artificial Intelligence</td>
+          <td>Machine Learning</td>
+          <td>Digital Transformation</td>
+          <td>Software Engineering</td>
+          <td>Full-Stack Development</td>
+          <td>DevOps</td>
+          <td>Cybersecurity</td>
         </tr>
-        <tr>
-          <td>S K I L L</td>
-          <td>S K I L L</td>
-          <td>S K I L L</td>
-          <td>S K I L L</td>
-          <td>S K I L L</td>
-          <td>S K I L L</td>
-          <td>S K I L L</td>
+        <tr align="left">
+          <td>Business Strategy</td>
+          <td>Project Management</td>
+          <td>Risk Management</td>
+          <td>Corporate Governance</td>
+          <td>IT Governance</td>
+          <td>UI/UX Design</td>
+          <td>Problem Solving</td>
         </tr>
       </table>
    </div><br>
