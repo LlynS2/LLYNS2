@@ -76,22 +76,22 @@
       </text><br>
       <table align="center">
         <tr align="left">
-          <td>Artificial Intelligence</td>
-          <td>Machine Learning</td>
-          <td>Digital Transformation</td>
-          <td>Software Engineering</td>
-          <td>Full-Stack Development</td>
-          <td>DevOps</td>
-          <td>Cybersecurity</td>
+          <td><h5>Artificial Intelligence</h5></td>
+          <td><h5>Machine Learning</h5></td>
+          <td><h5>Digital Transformation</h5></td>
+          <td><h5>Software Engineering</h5></td>
+          <td><h5>Full-Stack Development</h5></td>
+          <td><h5>DevOps</h5></td>
+          <td><h5>Cybersecurity</h5></td>
         </tr>
         <tr align="left">
-          <td>Business Strategy</td>
-          <td>Project Management</td>
-          <td>Risk Management</td>
-          <td>Corporate Governance</td>
-          <td>IT Governance</td>
-          <td>UI/UX Design</td>
-          <td>Problem Solving</td>
+          <td><h5>Business Strategy</h5></td>
+          <td><h5>Project Management</h5></td>
+          <td><h5>Risk Management</h5></td>
+          <td><h5>Corporate Governance</h5></td>
+          <td><h5>IT Governance</h5></td>
+          <td><h5>UI/UX Design</h5></td>
+          <td><h5>Problem Solving</h5></td>
         </tr>
       </table>
    </div><br>
