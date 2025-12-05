@@ -24,14 +24,13 @@
       </h2>
       <text align="left">
          <p>
-           Sed sagittis feugiat sem vitae tempor. Pellentesque aliquet tellus quis dolor aliquam, vitae fermentum magna venenatis. Praesent eget arcu condimentum lorem pharetra mattis. Ut ac convallis nulla. Sed et 
-           enim ex. Sed sed lorem consequat, bibendum ex in, auctor arcu. Cras quis venenatis nibh, pulvinar rutrum dui. Vivamus ullamcorper dictum magna, sed lobortis ligula egestas ornare. Aliquam vitae fermentum 
-           risus, at convallis tellus. Fusce eu leo condimentum, congue ante eu, malesuada felis. Suspendisse fermentum sed urna et porta. Nullam nulla arcu, feugiat et sapien in, faucibus euismod mi. Duis in velit 
-           ipsum. Sed laoreet eget arcu at laoreet. Ut id nisl mattis, pulvinar lectus in, tempus diam.
+           I’m Hevellyn Mc’Frei, Founder & CEO of the XTRHYLL Ecosystem — an innovation-driven Deep Tech that integrates technology, business, and research to create solutions for challenges of global and societal impact.
+           I hold a degree in Systems Analysis and Development from FIAP and an MBA in Software Engineering from USP. My work focuses on developing technological products that promote security, transformation, and evolution toward a
+           smarter future.
+           Here, you’ll find personal projects, academic work, and hackathons that have shaped my journey.
          </p>
          <p>
-           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper nibh metus, ac finibus purus tristique ac. Proin a ex urna. Integer vel malesuada justo. Nulla facilisi. Vestibulum faucibus ante id 
-           neque posuere venenatis. 
+           I believe knowledge is a continuous revolution — the driving force behind innovation, impact, and meaningful change in the world.
          </p>
       </text>
 
