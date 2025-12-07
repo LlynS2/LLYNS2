@@ -56,7 +56,7 @@
    <div align="center">
       
    [`A C A D E M I C  P R O J E C T S`](https://github.com/hevellynmcfrei/Academic-Projects)
-   [`P E R S O N A L  P R O J E C T S`](#)
+   [`P E R S O N A L  P R O J E C T S`](https://github.com/hevellynmcfrei/Personal-Projects)
    [`H A C K A T H O N  C H A L L E N G E S`](#)
    
    </div><br>
