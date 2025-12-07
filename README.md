@@ -160,7 +160,7 @@
       </h2>
       <text>
          <p align="left" >
-           <a href="https://github.com/XTRHYLL"><img  align="right" width="290" height="310" alt="LOGO XTRHYLL" src="https://github.com/user-attachments/assets/0d90be3d-82db-42de-94be-54e79f74810d" /></a><br><br>
+           <a href="https://github.com/XTRHYLL"><img  align="right" width="250" height="250" alt="LOGO XTRHYLL" src="https://github.com/user-attachments/assets/0d90be3d-82db-42de-94be-54e79f74810d" /></a><br><br>
             
    [`X T R H Y L L  C O R P O R A T I O N`](https://github.com/XTRHYLL) 
            was born with the purpose of driving transformation, raising standards, and developing solutions that connect technology, innovation, business, society, and the future. 
