@@ -158,7 +158,7 @@
       </h2>
       <text>
          <p align="left" >
-           <a href="https://github.com/XTRHYLL"><img  align="right" width="290" height="310" alt="XTRHYLL Logo" src="https://github.com/user-attachments/assets/0d90be3d-82db-42de-94be-54e79f74810d" /></a><br><br>
+           <a href="https://github.com/XTRHYLL"><img  align="right" width="250" height="250" alt="XTRHYLL Logo" src="https://github.com/user-attachments/assets/0d90be3d-82db-42de-94be-54e79f74810d" /></a><br><br>
             
    [`X T R H Y L L  C O R P O R A T I O N`](https://github.com/XTRHYLL) 
            은(는) 변화의 추진, 기준의 향상, 그리고 기술·혁신·비즈니스·사회·미래를 연결하는 솔루션을 개발하기 위해 설립되었습니다.
